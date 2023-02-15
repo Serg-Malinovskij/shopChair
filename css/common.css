@@ -1,0 +1,8 @@
+.category-link {
+  display: inline-block;
+  border: 1px solid #F1F1F1;
+  border-radius: 4px;
+  color: #656D72;
+  font-size: rem(12);
+  line-height: 1.2;
+}
