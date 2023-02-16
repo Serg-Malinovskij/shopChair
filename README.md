@@ -2,4 +2,4 @@
 
 -Это простой лендинг для портфолио
 -Состоит из нескольких блоков на одной странице
--[Посмотрите сами](https://serg-malinovskij.github.io/shopChair/)
+-[Посмотрите сами](https://serg-malinovskij.github.io/shopChair_Site/)
