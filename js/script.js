@@ -31,6 +31,7 @@ const menuItem = document.querySelectorAll('.bottom-menu__item');  // получ
 iconBurger.addEventListener('click', function (e) {
   iconBurger.classList.toggle('menu-open');
   headerMenu.classList.toggle('_open');
+  document.body.classList.toggle('_lock');
 }
 );
 console.log(iconBurger)
