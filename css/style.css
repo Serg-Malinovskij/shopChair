@@ -237,7 +237,8 @@ body._lock {
     height: 100%;
     background-color: #fff;
     align-items: flex-start;
-    padding-top: 30px;
+    padding-top: 110px;
+    transition: all 0.3s ease 0s;
   }
   .header-bottom__menu._open {
     left: 0%;
